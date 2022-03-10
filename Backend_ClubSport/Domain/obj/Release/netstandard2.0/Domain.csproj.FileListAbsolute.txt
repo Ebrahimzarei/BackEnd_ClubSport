@@ -1,0 +1,9 @@
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\bin\Release\netstandard2.0\Domain.deps.json
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\bin\Release\netstandard2.0\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\bin\Release\netstandard2.0\Domain.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Release\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfo.cs
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Release\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Release\netstandard2.0\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Release\netstandard2.0\Domain.pdb

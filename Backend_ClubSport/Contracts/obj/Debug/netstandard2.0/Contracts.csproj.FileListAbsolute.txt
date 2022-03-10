@@ -1,0 +1,13 @@
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\bin\Debug\netstandard2.0\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\bin\Debug\netstandard2.0\Domain.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.AssemblyReference.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CopyComplete
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

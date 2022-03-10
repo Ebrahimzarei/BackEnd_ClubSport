@@ -1,0 +1,10 @@
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\Domain\obj\Debug\netstandard2.0\Domain.pdb

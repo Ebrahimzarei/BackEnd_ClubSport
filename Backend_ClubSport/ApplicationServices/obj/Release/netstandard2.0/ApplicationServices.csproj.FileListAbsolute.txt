@@ -1,0 +1,14 @@
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\ApplicationServices.deps.json
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\ApplicationServices.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\ApplicationServices.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\Contracts.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\Contracts.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\bin\Release\netstandard2.0\Domain.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.csprojAssemblyReference.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.AssemblyInfo.cs
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.csproj.CopyComplete
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\ApplicationServices\obj\Release\netstandard2.0\ApplicationServices.pdb

@@ -1,0 +1,14 @@
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\DataLayer.deps.json
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\DataLayer.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\DataLayer.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\Contracts.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\Domain.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\Contracts.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\bin\Debug\netstandard2.1\Domain.pdb
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.csprojAssemblyReference.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.AssemblyInfoInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.AssemblyInfo.cs
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.csproj.CopyComplete
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.dll
+D:\Core\BackEnd_ClubSport\Backend_ClubSport\DataLayer\obj\Debug\netstandard2.1\DataLayer.pdb
